@@ -1,0 +1,242 @@
+﻿{
+    /*********
+    ** Main translations
+    *********/
+    // mod name shown in the menu
+    "mod-name": "CJB Cheats Menu",
+
+    // tab names
+    "tabs.player-and-tools": "Người chơi & Công cụ",
+    "tabs.farm-and-fishing": "Nông trại & Câu cá",
+    "tabs.skills": "Kỹ năng",
+    "tabs.weather": "Thời tiết",
+    "tabs.relationships": "Mối quan hệ",
+    "tabs.warp": "Dịch chuyển",
+    "tabs.time": "Thời gian",
+    "tabs.advanced": "Tùy chọn nâng cao",
+    "tabs.controls": "Phím tắt",
+
+
+    /*********
+    ** Player & Tools tab
+    *********/
+    // player
+    "player.title": "Người chơi",
+    "player.infinite-stamina": "Sức bền vô hạn",
+    "player.infinite-health": "Bất tử",
+    "player.instant-cooldowns": "Dùng vũ khí liên tục",
+    "player.inventory-size": "Kích thước kho đồ",
+    "player.movement-speed": "Tốc độ di chuyển",
+    "player.movement-speed.default": "bình thường",
+    "player.one-hit-kill": "One Hit Kill",
+    "player.max-daily-luck": "Tối đa may mắn hằng ngày",
+
+    // tools
+    "tools.title": "Công cụ",
+    "tools.infinite-water": "Vô hạn nước trong bình",
+    "tools.one-hit-break": "One Hit chặt/đào",
+    "tools.harvest-with-scythe": "Thu hoạch bằng lưỡi hái(Scythe)",
+
+    // money
+    "add.money": "Tiền",
+    "add.casino-coins": "Xu sòng bài(Casino)",
+    "add.golden-walnuts": "Golden Walnuts",
+    "add.qi-gems": "Qi Gems",
+    "add.amount-gold": "Cộng {{amount}}v",
+    "add.amount-other": "Cộng {{amount}}",
+
+
+    /*********
+    ** Farm & Fishing tab
+    *********/
+    // farm
+    "farm.title": "Nông trại",
+    "farm.auto-water": "Tự động tưới cây",
+    "farm.durable-fences": "Hàng rào bền vô hạn",
+    "farm.instant-build": "Xây ngay lập tức",
+    "farm.auto-feed-animals": "Tự động cho động vật ăn",
+    "farm.auto-pet-animals": "Tự động nuôi động vật",
+    "farm.infinite-hay": "Vô hạn rơm(Hay)",
+
+    // fishing
+    "fishing.title": "Câu cá",
+    "fishing.instant-catch": "Bắt ngay lập tức",
+    "fishing.instant-bite": "Cắn câu ngay lập tức",
+    "fishing.always-throw-max-distance": "Luôn ném cần xa hết cỡ",
+    "fishing.always-treasure": "Luôn được châu báu",
+    "fishing.durable-tackles": "Móc câu bền vô hạn",
+
+    // fast machines
+    "fast-machines.title": "Tiến trình của máy móc",
+    "fast-machines.fruit-trees": "Cây ăn quả",
+    "fast-machines.ready-in-the-morning": "{{machineName}} (xong ngay khi trời sáng)",
+
+
+    /*********
+    ** Skills tab
+    *********/
+    // skills
+    "skills.title": "Kỹ năng",
+    "skills.increase-farming": "Tăng Trồng trọt Cấp độ: {{currentLevel}}",
+    "skills.increase-mining": "Tăng Khai khoáng Cấp độ: {{currentLevel}}",
+    "skills.increase-foraging": "Tăng Hái lượm Cấp độ: {{currentLevel}}",
+    "skills.increase-fishing": "Tăng Câu cá Cấp độ: {{currentLevel}}",
+    "skills.increase-combat": "Tăng Chiến đấu Cấp độ: {{currentLevel}}",
+    "skills.reset": "RESET!",
+
+    // professions
+    "professions.title": "Danh hiệu",
+    "professions.combat.fighter": "Chiến đấu cấp độ 5 - Đấu sĩ",
+    "professions.combat.scout": "Chiến đấu cấp độ 5 - Tiên phong",
+    "professions.combat.acrobat": "Chiến đấu cấp độ 10 - Nhào lộn",
+    "professions.combat.brute": "Chiến đấu cấp độ 10 - Vũ phu",
+    "professions.combat.defender": "Chiến đấu cấp độ 10 - Hộ vệ",
+    "professions.combat.desperado": "Chiến đấu cấp độ 10 - Liều mạng",
+    "professions.farming.rancher": "Trồng trọt cấp độ 5 - Thợ cày",
+    "professions.farming.tiller": "Trồng trọt cấp độ 5 - Quản trại",
+    "professions.farming.agriculturist": "Trồng trọt cấp độ 10 - Nhà nông học",
+    "professions.farming.artisan": "Trồng trọt cấp độ 10 - Nghệ nhân",
+    "professions.farming.coopmaster": "Trồng trọt cấp độ 10 - Chủ trang trại",
+    "professions.farming.shepherd": "Trồng trọt cấp độ 10 - Chăn cừu",
+    "professions.fishing.fisher": "Câu cá cấp độ 5 - Dân chài",
+    "professions.fishing.trapper": "Câu cá cấp độ 5 - Thợ bẫy",
+    "professions.fishing.angler": "Câu cá cấp độ 10 - Thợ câu",
+    "professions.fishing.luremaster": "Câu cá cấp độ 10 - Bậc thầy mồi chài",
+    "professions.fishing.mariner": "Câu cá cấp độ 10 - Thủy thủ",
+    "professions.fishing.pirate": "Câu cá cấp độ 10 - Hải tặc",
+    "professions.foraging.forester": "Hái lượm cấp độ 5 - Kiểm lâm",
+    "professions.foraging.gatherer": "Hái lượm cấp độ 5 - Dân hái lượm",
+    "professions.foraging.botanist": "Hái lượm cấp độ 10 - Nhà thực vật học",
+    "professions.foraging.lumberjack": "Hái lượm cấp độ 10 - Tiều phu",
+    "professions.foraging.tapper": "Hái lượm cấp độ 10 - Dân khai thác",
+    "professions.foraging.tracker": "Hái lượm cấp độ 10 - Thợ truy dấu",
+    "professions.mining.geologist": "Khai khoáng cấp độ 5 - Nhà địa chất",
+    "professions.mining.miner": "Khai khoáng cấp độ 5 - Thợ mỏ",
+    "professions.mining.blacksmith": "Khai khoáng cấp độ 10 - Thợ rèn",
+    "professions.mining.excavator": "Khai khoáng cấp độ 10 - Thợ đào",
+    "professions.mining.gemologist": "Khai khoáng cấp độ 10 - Nghệ nhân đá quý",
+    "professions.mining.prospector": "Khai khoáng cấp độ 10 - Người thăm dò",
+
+
+    /*********
+    ** Weather tab
+    *********/
+    "weather.title": "Thời tiết ngày mai",
+    "weather.current": "Hiện tại",
+    "weather.sunny": "Trời nắng",
+    "weather.raining": "Trời mưa",
+    "weather.lightning": "Sấm chớp",
+    "weather.snowing": "Tuyết rơi",
+
+
+    /*********
+    ** Relationships tab
+    *********/
+    "relationships.title": "Mối quan hệ",
+    "relationships.give-gifts-anytime": "Có thể tặng quà bất cứ lúc nào",
+    "relationships.no-decay": "Không thể mất bạn :D",
+    "relationships.friends": "Bạn bè",
+
+
+    /*********
+    ** Warps tab
+    *********/
+    // main areas
+    "warp-section.main": "Khu vực chính",
+    "warp.farm": "Nông trại",
+    "warp.carpenter": "Thợ mộc",
+    "warp.desert": "Sa mạc",
+    "warp.mines": "Mỏ",
+    "warp.pierre-shop": "Cửa hàng của Pierre",
+
+    // town
+    "warp-section.town": "Phố(Thị xã)",
+    "warp.blacksmith": "Thợ rèn",
+    "warp.community-center": "Trung tâm cộng đồng",
+    "warp.jojamart": "Siêu thị JojaMart",
+    "warp.movie-theater": "Rạp phim",
+    "warp.museum": "Viện bảo tàng",
+    "warp.saloon": "Saloon",
+    "warp.sewer": "Cống",
+
+    // forest
+    "warp-section.forest": "Rừng",
+    "warp.hats": "Cửa hàng mũ",
+    "warp.ranch": "Trang trại của Marnie",
+    "warp.secret-woods": "Khu rừng bí mật",
+    "warp.wizard-tower": "Tháp phù thủy",
+
+    // mountain
+    "warp-section.mountain": "Núi",
+    "warp.adventurers-guild": "Hội thám hiểm",
+    "warp.bathhouse": "Nhà tắm",
+    "warp.quarry": "Mỏ đá",
+
+    // beach
+    "warp-section.beach": "Bãi biển",
+    "warp.tide-pools": "Hồ tắm",
+    "warp.willy-shop": "Cửa hàng của Willy",
+
+    // island
+    "warp-section.island": "Đảo Ginger",
+    "warp.forge": "Lò rèn",
+    "warp.island-farm": "Nông trại trên đảo",
+    "warp.dwarf-shop": "Cửa hàng Volcano Dwarf",
+    "warp.field-office": "Văn phòng thực địa",
+    "warp.leo-house": "Nhà của Leo",
+
+    // desert
+    "warp-section.desert": "Sa mạc",
+    "warp.casino": "Sòng bài",
+    "warp.sandy-shop": "Cửa hàng của Sandy",
+    "warp.skull-cavern": "Hang đầu lâu",
+
+
+    /*********
+    ** Time tab
+    *********/
+    // time
+    "time.title": "Thời gian",
+    "time.freeze-inside": "Đóng băng thời gian ở trong",
+    "time.freeze-caves": "Đóng băng thời gian trong hang động",
+    "time.freeze-everywhere": "Đóng băng thời gian mọi nơi",
+    "time.time": "Thời gian",
+    "time.time-frozen-message": "Đóng băng thời gian",
+
+    // date
+    "date.title": "Thời điểm",
+    "date.warning": "Một số thứ sẽ không cập nhật cho đến khi trôi qua một đêm.",
+    "date.year": "Năm",
+    "date.season": "Mùa",
+    "date.day": "Ngày",
+
+
+    /*********
+    ** Advanced tab
+    *********/
+    "flags.warning": "Cân nhắc khi dùng phần này!\nVì có thể gây ra các vấn đề như thư, sự kiện hoặc nhiệm vụ sẽ bị bỏ qua.",
+    "flags.quests": "Hoàn thành nhiệm vụ",
+    "flags.wallet": "Vật phẩm trong túi",
+    "flags.unlocked": "Mở khóa khu vực",
+    "flags.unlocked.guild": "Hội thám hiểm",
+    "flags.unlocked.room": "Phòng: {{name}}",
+    "flags.unlocked-content": "Mở khóa nội dung",
+    "flags.unlocked-content.dyes-and-tailoring": "Nhuộm & May mặc",
+    "flags.community-center": "Trung tâm cộng đồng",
+    "flags.community-center.door-unlocked": "Mở khóa cửa",
+    "flags.jojamart.membership": "Là thành viên của siêu thị JojaMart",
+
+
+    /*********
+    ** Controls tab
+    *********/
+    "controls.title": "Phím tắt",
+    "controls.android-config-note": "Bạn có thể thay đổi các nút on-screen trong tệp config cho CJB Cheats Menu và Virtual Keyboard mods.",
+    "controls.open-menu": "Mở menu",
+    "controls.freeze-time": "Đóng băng thời gian",
+    "controls.grow-tree": "Trồng cây",
+    "controls.grow-crops": "Trồng cây trồng",
+    "controls.grow-radius": "Tăng khoảng cách xung quanh người chơi",
+    "controls.reset-controls": "Reset",
+    "controls.press-new-key": "Phím tắt mới..."
+}
