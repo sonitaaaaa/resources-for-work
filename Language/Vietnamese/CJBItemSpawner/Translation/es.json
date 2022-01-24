@@ -1,0 +1,31 @@
+﻿{
+    /*********
+    ** Sort button
+    *********/
+    "sort.by-name": "Tên",
+    "sort.by-type": "Loại",
+    "sort.by-id": "ID",
+
+
+    /*********
+    ** Category dropdown
+    *********/
+    "filter.all": "Tất cả",
+    "filter.artisan-and-cooking": "Thủ công & chế biến",
+    "filter.crafting.products": "Chế tạo: sản phẩm",
+    "filter.crafting.resources": "Chế tạo: tài nguyên",
+    "filter.decor.furniture": "Trang trí: nội thất",
+    "filter.decor.other": "Trang trí: khác",
+    "filter.equipment-boots": "Trang bị: giày",
+    "filter.equipment-clothes": "Trang bị: quần áo",
+    "filter.equipment-hats": "Trang bị: mũ",
+    "filter.equipment-rings": "Trang bị: nhẫn",
+    "filter.equipment-tools": "Trang bị: công cụ",
+    "filter.equipment-weapons": "Trang bị: vũ khí",
+    "filter.farm-animal-drops": "Nông trại: vật phẩm của động vật",
+    "filter.farm-crops": "Nông trại: cây trồng",
+    "filter.farm-seeds": "Nông trại: hạt giống",
+    "filter.fish": "Cá",
+    "filter.minerals-and-artifacts": "Khoáng sản & hiện vật",
+    "filter.miscellaneous": "Bí ẩn"
+}
